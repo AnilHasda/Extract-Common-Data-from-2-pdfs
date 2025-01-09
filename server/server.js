@@ -1,0 +1,11 @@
+import express from "express";
+import dotenv from "dotenv";
+import router from "../src/route/route.js";
+import ErrorHandler from "../src/helper/errorHandler.js";
+const app=express();
+dotenv.config();
+app.use(express.json());
+app.use(express.urlencoded({extended:true}));
+app.use("/api/v1/",router);
+app.use(ErrorHandler);
+export default app;

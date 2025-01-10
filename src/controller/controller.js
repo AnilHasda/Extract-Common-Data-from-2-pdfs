@@ -108,6 +108,7 @@ const generatePdf = AsyncHandler(async(req, res) => {
   const filePath = path.join(__dirname, "../../assets/");
   // Example data for the table
   let data =JSON.parse(await fs.readFile(filePath+"commonData.json"));
+  data.sort((a,b)=>a.name.localeCompare(b.name));
   data.unshift({sn:"s.n",primaryKey:"primaryKey",name:"name",gender:"gender",dob:"dob"});
 // Add table title (above the table)
   doc.setFontSize(14);
@@ -122,7 +123,7 @@ let rows=data;
   });
   // Send the PDF as a response to the client
   res.setHeader("Content-Type", "application/pdf");
-  res.setHeader("Content-Disposition", "inline; filename=commonDatas.pdf");
+  res.setHeader("Content-Disposition", "attachment; filename=commonDatas.pdf");
   res.send(doc.output());
 });
 export{

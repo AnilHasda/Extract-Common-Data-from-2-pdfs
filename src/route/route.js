@@ -11,5 +11,5 @@ router.route("/test").get(test);
 router.route("/createFile").get(createFile);
 router.route("/readFile").get(readFile);
 router.route("/getCommonData").get(getCommonData);
-router.route("/generatePdf").get(generatePdf);
+router.route("/download-commonData").get(generatePdf);
 export default router;

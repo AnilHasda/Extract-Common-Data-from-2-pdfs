@@ -6,6 +6,8 @@ import { fileURLToPath } from 'url';
 import fs from "fs/promises";
 import PDFParser from "pdf2json"; 
 const pdfParser = new PDFParser();
+import {jsPDF} from "jspdf";
+import "jspdf-autotable";
 // Recreate __dirname
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -93,10 +95,40 @@ const getCommonData=AsyncHandler(async(req,res,next)=>{
     })
   })
   console.log({commonDatas,totalMembers:commonDatas.length})
+  await fs.writeFile(
+      filePath+"commonData.json",
+      JSON.stringify(commonDatas, null, 2),
+      "utf-8"
+    )
+    res.json(new ResponseConfig(200,commonDatas))
 })
+
+const generatePdf = AsyncHandler(async(req, res) => {
+  const doc = new jsPDF();
+  const filePath = path.join(__dirname, "../../assets/");
+  // Example data for the table
+  let data =JSON.parse(await fs.readFile(filePath+"commonData.json"));
+  data.unshift({sn:"s.n",primaryKey:"primaryKey",name:"name",gender:"gender",dob:"dob"});
+// Add table title (above the table)
+  doc.setFontSize(14);
+  doc.text("Common members from manufacture and agreeculture for korean language exam", 10, 10); // Positioning the title at coordinates (14, 20)
+// Use autoTable to generate the table
+let columns=data[0];
+data.shift();
+let rows=data;
+  doc.autoTable({
+    head: [columns], // Table header
+    body: rows,      // Table rows
+  });
+  // Send the PDF as a response to the client
+  res.setHeader("Content-Type", "application/pdf");
+  res.setHeader("Content-Disposition", "inline; filename=commonDatas.pdf");
+  res.send(doc.output());
+});
 export{
   test,
   createFile,
   readFile,
-  getCommonData
+  getCommonData,
+  generatePdf
 }

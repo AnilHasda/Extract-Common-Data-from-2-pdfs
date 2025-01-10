@@ -14,7 +14,11 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^3.8.4",
     "pdf-lib": "^1.17.1",
-    "pdf-parse": "^1.1.1"
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^3.1.5",
+    "pdfmake": "^0.2.18"
   }
 }

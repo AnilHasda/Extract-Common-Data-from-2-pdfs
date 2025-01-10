@@ -1,0 +1,1262 @@
+[
+  {
+    "sn": "159",
+    "primaryKey": "0062024C50014441",
+    "name": "CHAUDHARY NITU KUMARI",
+    "gender": "Female",
+    "dob": "1999-10-29"
+  },
+  {
+    "sn": "271",
+    "primaryKey": "0062024C50017049",
+    "name": "RAI BIBEK",
+    "gender": "Male",
+    "dob": "2000-12-03"
+  },
+  {
+    "sn": "279",
+    "primaryKey": "0062024C50017108",
+    "name": "SHARMA JHALAK PRASAD",
+    "gender": "Male",
+    "dob": "1996-12-01"
+  },
+  {
+    "sn": "282",
+    "primaryKey": "0062024C50017129",
+    "name": "SHARMA KRISHNA",
+    "gender": "Male",
+    "dob": "1997-03-15"
+  },
+  {
+    "sn": "306",
+    "primaryKey": "0062024C50017243",
+    "name": "KHADKA GANESH",
+    "gender": "Male",
+    "dob": "2003-05-22"
+  },
+  {
+    "sn": "433",
+    "primaryKey": "0062024C50021765",
+    "name": "K C RAJAN",
+    "gender": "Male",
+    "dob": "2002-01-30"
+  },
+  {
+    "sn": "471",
+    "primaryKey": "0062024C50022045",
+    "name": "LAMICHHANE RAJU KUMAR",
+    "gender": "Male",
+    "dob": "1992-12-21"
+  },
+  {
+    "sn": "682",
+    "primaryKey": "0062024C50023524",
+    "name": "MEHTA PRADIP KUMAR",
+    "gender": "Male",
+    "dob": "2001-04-15"
+  },
+  {
+    "sn": "714",
+    "primaryKey": "0062024C50023696",
+    "name": "KHADKA RAGAM",
+    "gender": "Male",
+    "dob": "2000-10-26"
+  },
+  {
+    "sn": "788",
+    "primaryKey": "0062024C50024215",
+    "name": "SAMBAHAMPHE SUBASH",
+    "gender": "Male",
+    "dob": "2000-11-12"
+  },
+  {
+    "sn": "807",
+    "primaryKey": "0062024C50024366",
+    "name": "G C CHANDRA BAHADUR",
+    "gender": "Male",
+    "dob": "2001-11-09"
+  },
+  {
+    "sn": "900",
+    "primaryKey": "0062024C50025003",
+    "name": "RAI ARNABAL",
+    "gender": "Male",
+    "dob": "2001-05-28"
+  },
+  {
+    "sn": "1363",
+    "primaryKey": "0062024C50028536",
+    "name": "THYAYAT BISHNU BAHADUR",
+    "gender": "Male",
+    "dob": "1994-09-06"
+  },
+  {
+    "sn": "1398",
+    "primaryKey": "0062024C50028855",
+    "name": "TIWARI SUNDAR",
+    "gender": "Male",
+    "dob": "2004-07-29"
+  },
+  {
+    "sn": "1428",
+    "primaryKey": "0062024C50029088",
+    "name": "PAKHRIN KESHAB",
+    "gender": "Male",
+    "dob": "2000-06-17"
+  },
+  {
+    "sn": "1455",
+    "primaryKey": "0062024C50029260",
+    "name": "BASNET BHARAT BAHADUR",
+    "gender": "Male",
+    "dob": "1997-09-11"
+  },
+  {
+    "sn": "1459",
+    "primaryKey": "0062024C50029292",
+    "name": "CHHETRI HEM BAHADUR",
+    "gender": "Male",
+    "dob": "1993-08-19"
+  },
+  {
+    "sn": "1515",
+    "primaryKey": "0062024C50029698",
+    "name": "POUDEL SANAM",
+    "gender": "Male",
+    "dob": "1999-11-28"
+  },
+  {
+    "sn": "1543",
+    "primaryKey": "0062024C50029891",
+    "name": "BASNET TILAK BAHADUR",
+    "gender": "Male",
+    "dob": "2002-01-27"
+  },
+  {
+    "sn": "1689",
+    "primaryKey": "0062024C50031069",
+    "name": "BASNET DAYARAM",
+    "gender": "Male",
+    "dob": "1996-07-27"
+  },
+  {
+    "sn": "1690",
+    "primaryKey": "0062024C50031072",
+    "name": "DONG TAMANGNI HARI MAYA",
+    "gender": "Female",
+    "dob": "1990-07-04"
+  },
+  {
+    "sn": "1759",
+    "primaryKey": "0062024C50031647",
+    "name": "PAUDEL MANOJ",
+    "gender": "Male",
+    "dob": "1995-05-26"
+  },
+  {
+    "sn": "2062",
+    "primaryKey": "0062024C50034142",
+    "name": "MAGAR OM PRAKASH",
+    "gender": "Male",
+    "dob": "2002-11-19"
+  },
+  {
+    "sn": "2089",
+    "primaryKey": "0062024C50034382",
+    "name": "SHERPA BISHINU",
+    "gender": "Female",
+    "dob": "1996-08-21"
+  },
+  {
+    "sn": "2165",
+    "primaryKey": "0062024C50034949",
+    "name": "LIMBU LAXMI",
+    "gender": "Female",
+    "dob": "1996-08-06"
+  },
+  {
+    "sn": "2232",
+    "primaryKey": "0062024C50035509",
+    "name": "NEPALI SHIVA LAL",
+    "gender": "Male",
+    "dob": "1993-11-27"
+  },
+  {
+    "sn": "2469",
+    "primaryKey": "0062024C50037532",
+    "name": "ADHIKARI SUDIP",
+    "gender": "Male",
+    "dob": "2001-11-05"
+  },
+  {
+    "sn": "2615",
+    "primaryKey": "0062024C50038556",
+    "name": "REGMI SUBAS",
+    "gender": "Male",
+    "dob": "2000-02-10"
+  },
+  {
+    "sn": "2827",
+    "primaryKey": "0062024C50040192",
+    "name": "NEPALI KHAGISWORA",
+    "gender": "Female",
+    "dob": "1991-01-17"
+  },
+  {
+    "sn": "3015",
+    "primaryKey": "0062024C50041692",
+    "name": "BHANDARI SAROJ",
+    "gender": "Male",
+    "dob": "2001-03-19"
+  },
+  {
+    "sn": "3194",
+    "primaryKey": "0062024C50043047",
+    "name": "TAMANG SANJIT",
+    "gender": "Male",
+    "dob": "1999-08-05"
+  },
+  {
+    "sn": "3354",
+    "primaryKey": "0062024C50044238",
+    "name": "BUDHATHOKI KAILASH",
+    "gender": "Male",
+    "dob": "2000-06-24"
+  },
+  {
+    "sn": "3382",
+    "primaryKey": "0062024C50044423",
+    "name": "SAPKOTA SANDIP",
+    "gender": "Male",
+    "dob": "2002-02-23"
+  },
+  {
+    "sn": "3564",
+    "primaryKey": "0062024C50051111",
+    "name": "BEGHA SANJIB",
+    "gender": "Male",
+    "dob": "1987-07-03"
+  },
+  {
+    "sn": "3574",
+    "primaryKey": "0062024C50051184",
+    "name": "SHRESTHA SABIN",
+    "gender": "Male",
+    "dob": "1998-01-20"
+  },
+  {
+    "sn": "3616",
+    "primaryKey": "0062024C50051615",
+    "name": "CHAUDHARY KARAM BAHADUR",
+    "gender": "Male",
+    "dob": "1989-07-30"
+  },
+  {
+    "sn": "3626",
+    "primaryKey": "0062024C50051688",
+    "name": "BARAL MANOJ",
+    "gender": "Male",
+    "dob": "2003-04-28"
+  },
+  {
+    "sn": "3644",
+    "primaryKey": "0062024C50051814",
+    "name": "THAPA SUMIT",
+    "gender": "Male",
+    "dob": "1998-02-16"
+  },
+  {
+    "sn": "3666",
+    "primaryKey": "0062024C50051990",
+    "name": "KHADAYAT NAVARAJ",
+    "gender": "Male",
+    "dob": "1992-12-20"
+  },
+  {
+    "sn": "3736",
+    "primaryKey": "0062024C50054563",
+    "name": "LIMBU PRANIR",
+    "gender": "Male",
+    "dob": "2002-02-26"
+  },
+  {
+    "sn": "3815",
+    "primaryKey": "0062024C50055781",
+    "name": "TAMANG RAJ KUMAR",
+    "gender": "Male",
+    "dob": "1998-12-12"
+  },
+  {
+    "sn": "3849",
+    "primaryKey": "0062024C50056097",
+    "name": "BASNET PARMESWOR",
+    "gender": "Male",
+    "dob": "1991-04-09"
+  },
+  {
+    "sn": "3952",
+    "primaryKey": "0062024C50057515",
+    "name": "OLI KUMAR",
+    "gender": "Male",
+    "dob": "2004-01-17"
+  },
+  {
+    "sn": "4014",
+    "primaryKey": "0062024C50058191",
+    "name": "RAUNIYAR DHANPATH SAH",
+    "gender": "Male",
+    "dob": "2001-08-18"
+  },
+  {
+    "sn": "4015",
+    "primaryKey": "0062024C50058198",
+    "name": "SHRESTHA SUJAN",
+    "gender": "Male",
+    "dob": "1989-11-07"
+  },
+  {
+    "sn": "4042",
+    "primaryKey": "0062024C50058479",
+    "name": "SHAH NAVA PRABHAT",
+    "gender": "Male",
+    "dob": "1999-07-30"
+  },
+  {
+    "sn": "4072",
+    "primaryKey": "0062024C50058806",
+    "name": "RAWAT NARAYAN",
+    "gender": "Male",
+    "dob": "1993-08-25"
+  },
+  {
+    "sn": "4127",
+    "primaryKey": "0062024C50059282",
+    "name": "GAUTAM PADAM",
+    "gender": "Male",
+    "dob": "1995-01-08"
+  },
+  {
+    "sn": "4138",
+    "primaryKey": "0062024C50059441",
+    "name": "MAGAR MIN BAHADUR",
+    "gender": "Male",
+    "dob": "1997-02-22"
+  },
+  {
+    "sn": "4156",
+    "primaryKey": "0062024C50059572",
+    "name": "SHRESTHA PRAMOD",
+    "gender": "Male",
+    "dob": "2002-12-29"
+  },
+  {
+    "sn": "4181",
+    "primaryKey": "0062024C50059846",
+    "name": "ACHARYA BABURAM",
+    "gender": "Male",
+    "dob": "1993-04-29"
+  },
+  {
+    "sn": "4194",
+    "primaryKey": "0062024C50059965",
+    "name": "GAIRE ACHYUT KUMAR",
+    "gender": "Male",
+    "dob": "1997-11-14"
+  },
+  {
+    "sn": "4242",
+    "primaryKey": "0062024C50060446",
+    "name": "NEPALI MILAN",
+    "gender": "Male",
+    "dob": "1999-10-13"
+  },
+  {
+    "sn": "4308",
+    "primaryKey": "0062024C50061029",
+    "name": "THAPA BHIM BAHADUR",
+    "gender": "Male",
+    "dob": "1992-05-02"
+  },
+  {
+    "sn": "4354",
+    "primaryKey": "0062024C50061482",
+    "name": "ADHIKARI SUNIL",
+    "gender": "Male",
+    "dob": "1999-11-24"
+  },
+  {
+    "sn": "4400",
+    "primaryKey": "0062024C50062432",
+    "name": "SAPKOTA NABIN",
+    "gender": "Male",
+    "dob": "1998-01-04"
+  },
+  {
+    "sn": "4413",
+    "primaryKey": "0062024C50062500",
+    "name": "PUN HARI",
+    "gender": "Male",
+    "dob": "1997-07-19"
+  },
+  {
+    "sn": "4429",
+    "primaryKey": "0062024C50062702",
+    "name": "LUITEL KAMAL",
+    "gender": "Male",
+    "dob": "2001-04-03"
+  },
+  {
+    "sn": "4434",
+    "primaryKey": "0062024C50062765",
+    "name": "BHULUN BIKRAM",
+    "gender": "Male",
+    "dob": "1999-03-11"
+  },
+  {
+    "sn": "4466",
+    "primaryKey": "0062024C50063103",
+    "name": "SHAHI SONU",
+    "gender": "Male",
+    "dob": "1996-06-07"
+  },
+  {
+    "sn": "4468",
+    "primaryKey": "0062024C50063114",
+    "name": "UPRETI SHYAM HARI",
+    "gender": "Male",
+    "dob": "1991-01-02"
+  },
+  {
+    "sn": "4494",
+    "primaryKey": "0062024C50063327",
+    "name": "BUDHATHOKI DILLI",
+    "gender": "Male",
+    "dob": "2003-04-27"
+  },
+  {
+    "sn": "4511",
+    "primaryKey": "0062024C50063479",
+    "name": "SUBEDI SAGAR",
+    "gender": "Male",
+    "dob": "1996-02-27"
+  },
+  {
+    "sn": "4520",
+    "primaryKey": "0062024C50063648",
+    "name": "SHAHI HIMAL",
+    "gender": "Male",
+    "dob": "2004-01-17"
+  },
+  {
+    "sn": "4521",
+    "primaryKey": "0062024C50063655",
+    "name": "KHANAL KESHAV",
+    "gender": "Male",
+    "dob": "2003-05-06"
+  },
+  {
+    "sn": "4530",
+    "primaryKey": "0062024C50063744",
+    "name": "KHATRI KAMAL BAHADUR",
+    "gender": "Male",
+    "dob": "1991-10-31"
+  },
+  {
+    "sn": "4538",
+    "primaryKey": "0062024C50063875",
+    "name": "BALAL GANESH",
+    "gender": "Male",
+    "dob": "2001-10-17"
+  },
+  {
+    "sn": "4542",
+    "primaryKey": "0062024C50063966",
+    "name": "CHAUDHARY SAGAR",
+    "gender": "Male",
+    "dob": "1996-12-22"
+  },
+  {
+    "sn": "4545",
+    "primaryKey": "0062024C50064022",
+    "name": "LUITEL TULSIRAM",
+    "gender": "Male",
+    "dob": "1999-02-08"
+  },
+  {
+    "sn": "4563",
+    "primaryKey": "0062024C50064363",
+    "name": "TAMANG DIKENDRA",
+    "gender": "Male",
+    "dob": "2001-08-19"
+  },
+  {
+    "sn": "4597",
+    "primaryKey": "0062024C50064637",
+    "name": "KHADKA GOBIN",
+    "gender": "Male",
+    "dob": "1997-08-12"
+  },
+  {
+    "sn": "4653",
+    "primaryKey": "0062024C50065106",
+    "name": "TAMANG DAL BAHADUR",
+    "gender": "Male",
+    "dob": "1985-10-27"
+  },
+  {
+    "sn": "4677",
+    "primaryKey": "0062024C50065354",
+    "name": "KSHETRI CHANDRA BAHADUR",
+    "gender": "Male",
+    "dob": "1996-04-21"
+  },
+  {
+    "sn": "4759",
+    "primaryKey": "0062024C50067281",
+    "name": "BOHARA KESHAB SINGH",
+    "gender": "Male",
+    "dob": "1997-01-12"
+  },
+  {
+    "sn": "4765",
+    "primaryKey": "0062024C50067349",
+    "name": "SUBEDI GHANSHYAM",
+    "gender": "Male",
+    "dob": "2000-02-16"
+  },
+  {
+    "sn": "4786",
+    "primaryKey": "0062024C50067551",
+    "name": "RAUT SUBARNA",
+    "gender": "Male",
+    "dob": "2003-12-05"
+  },
+  {
+    "sn": "4795",
+    "primaryKey": "0062024C50067656",
+    "name": "RANA KRISHNA BAHADUR",
+    "gender": "Male",
+    "dob": "2004-08-11"
+  },
+  {
+    "sn": "4814",
+    "primaryKey": "0062024C50067818",
+    "name": "THAPA PHADINDRA",
+    "gender": "Male",
+    "dob": "1999-08-23"
+  },
+  {
+    "sn": "4827",
+    "primaryKey": "0062024C50067939",
+    "name": "TUMBAPO TANCHHO HANG",
+    "gender": "Male",
+    "dob": "1999-02-20"
+  },
+  {
+    "sn": "4884",
+    "primaryKey": "0062024C50068669",
+    "name": "RUMBA SANISH",
+    "gender": "Male",
+    "dob": "1999-11-15"
+  },
+  {
+    "sn": "4900",
+    "primaryKey": "0062024C50068840",
+    "name": "D C BHUPENDRA",
+    "gender": "Male",
+    "dob": "2004-11-19"
+  },
+  {
+    "sn": "4928",
+    "primaryKey": "0062024C50069176",
+    "name": "TAMANG BIR BAHADUR",
+    "gender": "Male",
+    "dob": "1997-02-12"
+  },
+  {
+    "sn": "4944",
+    "primaryKey": "0062024C50069421",
+    "name": "DEVKOTA ASHOK",
+    "gender": "Male",
+    "dob": "1998-07-07"
+  },
+  {
+    "sn": "4946",
+    "primaryKey": "0062024C50069437",
+    "name": "GAIRE LAXMAN",
+    "gender": "Male",
+    "dob": "2003-12-15"
+  },
+  {
+    "sn": "5057",
+    "primaryKey": "0062024C50071347",
+    "name": "TAMANG PREM",
+    "gender": "Male",
+    "dob": "1990-11-08"
+  },
+  {
+    "sn": "5060",
+    "primaryKey": "0062024C50071359",
+    "name": "CHAUDHARY MAHENDRA",
+    "gender": "Male",
+    "dob": "1996-10-06"
+  },
+  {
+    "sn": "5063",
+    "primaryKey": "0062024C50071403",
+    "name": "KHATRI BIGYAN",
+    "gender": "Male",
+    "dob": "2001-12-19"
+  },
+  {
+    "sn": "5067",
+    "primaryKey": "0062024C50071461",
+    "name": "GURUNG SURESH",
+    "gender": "Male",
+    "dob": "1991-08-26"
+  },
+  {
+    "sn": "5080",
+    "primaryKey": "0062024C50071642",
+    "name": "BHUSAL AMRIT PRASAD",
+    "gender": "Male",
+    "dob": "1992-03-21"
+  },
+  {
+    "sn": "5231",
+    "primaryKey": "0062024C50073332",
+    "name": "ADHIKARI BIKAL",
+    "gender": "Male",
+    "dob": "2002-08-06"
+  },
+  {
+    "sn": "5353",
+    "primaryKey": "0062024C50074720",
+    "name": "LIMBU BIKESH",
+    "gender": "Male",
+    "dob": "1998-11-29"
+  },
+  {
+    "sn": "5396",
+    "primaryKey": "0062024C50075775",
+    "name": "RAI NILUMA",
+    "gender": "Female",
+    "dob": "2004-10-18"
+  },
+  {
+    "sn": "5474",
+    "primaryKey": "0062024C50076763",
+    "name": "LAMA SUDIP",
+    "gender": "Male",
+    "dob": "2003-07-28"
+  },
+  {
+    "sn": "5477",
+    "primaryKey": "0062024C50076802",
+    "name": "GHIMIRE JANAK",
+    "gender": "Male",
+    "dob": "1994-09-16"
+  },
+  {
+    "sn": "5525",
+    "primaryKey": "0062024C50077837",
+    "name": "RANA KULDEEP",
+    "gender": "Male",
+    "dob": "1996-11-27"
+  },
+  {
+    "sn": "5543",
+    "primaryKey": "0062024C50078054",
+    "name": "RANA KAPIL",
+    "gender": "Male",
+    "dob": "1997-08-06"
+  },
+  {
+    "sn": "5578",
+    "primaryKey": "0062024C50078385",
+    "name": "NEMBANG PARASH",
+    "gender": "Male",
+    "dob": "2003-09-27"
+  },
+  {
+    "sn": "5644",
+    "primaryKey": "0062024C50079200",
+    "name": "BUDHATHOKI SURENDRA",
+    "gender": "Male",
+    "dob": "1998-08-26"
+  },
+  {
+    "sn": "5673",
+    "primaryKey": "0062024C50079447",
+    "name": "LAWATI DHAN KUMAR",
+    "gender": "Male",
+    "dob": "2001-03-21"
+  },
+  {
+    "sn": "5707",
+    "primaryKey": "0062024C50080338",
+    "name": "ALEMAGAR SUSHIL",
+    "gender": "Male",
+    "dob": "1999-05-13"
+  },
+  {
+    "sn": "5712",
+    "primaryKey": "0062024C50080373",
+    "name": "LAWATI MAUSHAM",
+    "gender": "Male",
+    "dob": "1994-09-14"
+  },
+  {
+    "sn": "5762",
+    "primaryKey": "0062024C50080886",
+    "name": "KHADKA JEEVAN",
+    "gender": "Male",
+    "dob": "1993-12-30"
+  },
+  {
+    "sn": "5776",
+    "primaryKey": "0062024C50081068",
+    "name": "GIRI RUPLAL",
+    "gender": "Male",
+    "dob": "1997-10-26"
+  },
+  {
+    "sn": "5805",
+    "primaryKey": "0062024C50081308",
+    "name": "BHATTARAI KESHAV RAJ",
+    "gender": "Male",
+    "dob": "1997-11-18"
+  },
+  {
+    "sn": "5837",
+    "primaryKey": "0062024C50081562",
+    "name": "THAPA SUNIL",
+    "gender": "Male",
+    "dob": "1997-12-17"
+  },
+  {
+    "sn": "5862",
+    "primaryKey": "0062024C50081872",
+    "name": "PAUDEL JAGADISH",
+    "gender": "Male",
+    "dob": "2003-01-31"
+  },
+  {
+    "sn": "6006",
+    "primaryKey": "0062024C50083413",
+    "name": "BHANDARI SUMAN",
+    "gender": "Male",
+    "dob": "2001-01-13"
+  },
+  {
+    "sn": "6010",
+    "primaryKey": "0062024C50083450",
+    "name": "SUBEDI RAM PRASAD",
+    "gender": "Male",
+    "dob": "1995-08-24"
+  },
+  {
+    "sn": "6016",
+    "primaryKey": "0062024C50083544",
+    "name": "TAMANG JEEVAN",
+    "gender": "Male",
+    "dob": "1997-10-23"
+  },
+  {
+    "sn": "6083",
+    "primaryKey": "0062024C50084218",
+    "name": "GHIMIRE SUNIL",
+    "gender": "Male",
+    "dob": "2000-06-05"
+  },
+  {
+    "sn": "6089",
+    "primaryKey": "0062024C50084276",
+    "name": "SHRESTHA RABIN",
+    "gender": "Male",
+    "dob": "2004-11-30"
+  },
+  {
+    "sn": "6107",
+    "primaryKey": "0062024C50084389",
+    "name": "BHANDARI MAHESH",
+    "gender": "Male",
+    "dob": "1998-05-05"
+  },
+  {
+    "sn": "6114",
+    "primaryKey": "0062024C50084418",
+    "name": "BASYAL LILADHAR",
+    "gender": "Male",
+    "dob": "2001-12-25"
+  },
+  {
+    "sn": "6148",
+    "primaryKey": "0062024C50084735",
+    "name": "THAPA ANIL",
+    "gender": "Male",
+    "dob": "1998-08-23"
+  },
+  {
+    "sn": "6176",
+    "primaryKey": "0062024C50085017",
+    "name": "KARKI UDDHAV",
+    "gender": "Male",
+    "dob": "1996-09-17"
+  },
+  {
+    "sn": "6194",
+    "primaryKey": "0062024C50085127",
+    "name": "GHALAN JIBAN KUMAR",
+    "gender": "Male",
+    "dob": "1999-11-24"
+  },
+  {
+    "sn": "6209",
+    "primaryKey": "0062024C50085264",
+    "name": "KAFLE DIPAK",
+    "gender": "Male",
+    "dob": "2001-12-05"
+  },
+  {
+    "sn": "6232",
+    "primaryKey": "0062024C50085500",
+    "name": "CHAUDHARY SURAJ",
+    "gender": "Male",
+    "dob": "1996-04-14"
+  },
+  {
+    "sn": "6297",
+    "primaryKey": "0062024C50086400",
+    "name": "SANJEL BHIMSEN",
+    "gender": "Male",
+    "dob": "1997-03-06"
+  },
+  {
+    "sn": "6389",
+    "primaryKey": "0062024C50087535",
+    "name": "BASNET BIKRANTA",
+    "gender": "Male",
+    "dob": "1995-10-31"
+  },
+  {
+    "sn": "6416",
+    "primaryKey": "0062024C50087767",
+    "name": "MAGAR TEK BAHADUR",
+    "gender": "Male",
+    "dob": "1991-08-21"
+  },
+  {
+    "sn": "6430",
+    "primaryKey": "0062024C50087871",
+    "name": "NEPALI MISHAN",
+    "gender": "Male",
+    "dob": "2003-12-29"
+  },
+  {
+    "sn": "6450",
+    "primaryKey": "0062024C50088103",
+    "name": "PANDEY SHANKAR",
+    "gender": "Male",
+    "dob": "1999-08-10"
+  },
+  {
+    "sn": "6613",
+    "primaryKey": "0062024C50089814",
+    "name": "NATH GANESH",
+    "gender": "Male",
+    "dob": "1997-09-24"
+  },
+  {
+    "sn": "6617",
+    "primaryKey": "0062024C50089868",
+    "name": "GHARTI MAGAR PRATIK",
+    "gender": "Male",
+    "dob": "2002-04-15"
+  },
+  {
+    "sn": "6637",
+    "primaryKey": "0062024C50090096",
+    "name": "MISHRA MEGHRAJ",
+    "gender": "Male",
+    "dob": "1997-12-07"
+  },
+  {
+    "sn": "6791",
+    "primaryKey": "0062024C50091626",
+    "name": "BHOMJAN PRAMILA",
+    "gender": "Female",
+    "dob": "1998-09-27"
+  },
+  {
+    "sn": "6927",
+    "primaryKey": "0062024C50092989",
+    "name": "SHAKYA BASANTA",
+    "gender": "Male",
+    "dob": "2001-07-30"
+  },
+  {
+    "sn": "6930",
+    "primaryKey": "0062024C50093010",
+    "name": "GHARADI PRAKASH",
+    "gender": "Male",
+    "dob": "2003-07-19"
+  },
+  {
+    "sn": "6954",
+    "primaryKey": "0062024C50093202",
+    "name": "KATHAYAT MAHESH",
+    "gender": "Male",
+    "dob": "1998-09-28"
+  },
+  {
+    "sn": "6959",
+    "primaryKey": "0062024C50093245",
+    "name": "KARKI BHOJRAJ",
+    "gender": "Male",
+    "dob": "1992-02-15"
+  },
+  {
+    "sn": "7108",
+    "primaryKey": "0062024C50094884",
+    "name": "KHATRI BHIM KUMAR",
+    "gender": "Male",
+    "dob": "1988-04-07"
+  },
+  {
+    "sn": "7115",
+    "primaryKey": "0062024C50094937",
+    "name": "RAI REWANTA",
+    "gender": "Male",
+    "dob": "1996-11-29"
+  },
+  {
+    "sn": "7120",
+    "primaryKey": "0062024C50094965",
+    "name": "TAMANG LAKPA",
+    "gender": "Male",
+    "dob": "2002-09-17"
+  },
+  {
+    "sn": "7140",
+    "primaryKey": "0062024C50095147",
+    "name": "SUBBA JAGAT",
+    "gender": "Male",
+    "dob": "1994-02-01"
+  },
+  {
+    "sn": "7220",
+    "primaryKey": "0062024C50096671",
+    "name": "RAI MAUSAM",
+    "gender": "Male",
+    "dob": "2000-05-23"
+  },
+  {
+    "sn": "7224",
+    "primaryKey": "0062024C50096732",
+    "name": "RAI ASHOK",
+    "gender": "Male",
+    "dob": "2000-08-03"
+  },
+  {
+    "sn": "7240",
+    "primaryKey": "0062024C50097066",
+    "name": "PANGENI SANDEEP",
+    "gender": "Male",
+    "dob": "2002-10-12"
+  },
+  {
+    "sn": "7260",
+    "primaryKey": "0062024C50097434",
+    "name": "RANJIT SRIJAN",
+    "gender": "Male",
+    "dob": "1986-11-01"
+  },
+  {
+    "sn": "7284",
+    "primaryKey": "0062024C50098387",
+    "name": "PAUDEL SUDIP",
+    "gender": "Male",
+    "dob": "2001-12-14"
+  },
+  {
+    "sn": "7304",
+    "primaryKey": "0062024C50098673",
+    "name": "MAGAR BIBEK",
+    "gender": "Male",
+    "dob": "2002-01-05"
+  },
+  {
+    "sn": "7318",
+    "primaryKey": "0062024C50098924",
+    "name": "BIST JANGA BAHADUR",
+    "gender": "Male",
+    "dob": "1994-04-18"
+  },
+  {
+    "sn": "7366",
+    "primaryKey": "0062024C50099535",
+    "name": "KHADKA LILA",
+    "gender": "Female",
+    "dob": "1997-07-30"
+  },
+  {
+    "sn": "7377",
+    "primaryKey": "0062024C50099657",
+    "name": "RAI NIRMALA",
+    "gender": "Female",
+    "dob": "1997-04-17"
+  },
+  {
+    "sn": "7380",
+    "primaryKey": "0062024C50099677",
+    "name": "TAMANG MANCHUK",
+    "gender": "Female",
+    "dob": "2001-11-13"
+  },
+  {
+    "sn": "7382",
+    "primaryKey": "0062024C50099702",
+    "name": "OLI PAWAN",
+    "gender": "Male",
+    "dob": "2002-12-08"
+  },
+  {
+    "sn": "7385",
+    "primaryKey": "0062024C50099777",
+    "name": "SUNAR GANESH",
+    "gender": "Male",
+    "dob": "2002-07-26"
+  },
+  {
+    "sn": "7405",
+    "primaryKey": "0062024C50100025",
+    "name": "CHAUDHARY SANTOSH",
+    "gender": "Male",
+    "dob": "1988-05-25"
+  },
+  {
+    "sn": "7467",
+    "primaryKey": "0062024C50100903",
+    "name": "THAPA TIL BAHADUR",
+    "gender": "Male",
+    "dob": "1993-03-14"
+  },
+  {
+    "sn": "7505",
+    "primaryKey": "0062024C50101393",
+    "name": "GAUTAM SUMAN",
+    "gender": "Male",
+    "dob": "2004-01-05"
+  },
+  {
+    "sn": "7508",
+    "primaryKey": "0062024C50101446",
+    "name": "GHARTI MAGAR KAMAL",
+    "gender": "Male",
+    "dob": "2000-08-06"
+  },
+  {
+    "sn": "7577",
+    "primaryKey": "0062024C50102490",
+    "name": "BANSHI PRAKASH",
+    "gender": "Male",
+    "dob": "1999-11-15"
+  },
+  {
+    "sn": "7578",
+    "primaryKey": "0062024C50102508",
+    "name": "LIMBU NISHAL",
+    "gender": "Male",
+    "dob": "2001-12-04"
+  },
+  {
+    "sn": "7622",
+    "primaryKey": "0062024C50103294",
+    "name": "RAI GOUSAN",
+    "gender": "Male",
+    "dob": "1995-10-22"
+  },
+  {
+    "sn": "7635",
+    "primaryKey": "0062024C50103515",
+    "name": "TAMANG BIKASH",
+    "gender": "Male",
+    "dob": "1993-11-26"
+  },
+  {
+    "sn": "7654",
+    "primaryKey": "0062024C50103791",
+    "name": "TAMANG SANJAYA",
+    "gender": "Male",
+    "dob": "1997-09-02"
+  },
+  {
+    "sn": "7688",
+    "primaryKey": "0062024C50104209",
+    "name": "PANDEY BIJAYA",
+    "gender": "Male",
+    "dob": "1998-11-26"
+  },
+  {
+    "sn": "7692",
+    "primaryKey": "0062024C50104225",
+    "name": "KHEWA APLIHANG",
+    "gender": "Male",
+    "dob": "2003-01-09"
+  },
+  {
+    "sn": "7695",
+    "primaryKey": "0062024C50104250",
+    "name": "PUN PURNA BAHADUR",
+    "gender": "Male",
+    "dob": "1995-10-06"
+  },
+  {
+    "sn": "7702",
+    "primaryKey": "0062024C50104347",
+    "name": "CHAND KHAGENDRA",
+    "gender": "Male",
+    "dob": "1995-07-17"
+  },
+  {
+    "sn": "7747",
+    "primaryKey": "0062024C50105149",
+    "name": "RAUT GAGAN",
+    "gender": "Male",
+    "dob": "1993-09-16"
+  },
+  {
+    "sn": "7749",
+    "primaryKey": "0062024C50105160",
+    "name": "LAMSAL ISHWAR",
+    "gender": "Male",
+    "dob": "2004-11-26"
+  },
+  {
+    "sn": "7775",
+    "primaryKey": "0062024C50105519",
+    "name": "PARAJULI ISHWOR",
+    "gender": "Male",
+    "dob": "2000-12-12"
+  },
+  {
+    "sn": "7796",
+    "primaryKey": "0062024C50105932",
+    "name": "KHANAL RISHI RAM",
+    "gender": "Male",
+    "dob": "1996-09-13"
+  },
+  {
+    "sn": "7799",
+    "primaryKey": "0062024C50105961",
+    "name": "ADHIKARI SHANKAR",
+    "gender": "Male",
+    "dob": "1996-06-13"
+  },
+  {
+    "sn": "7806",
+    "primaryKey": "0062024C50106063",
+    "name": "KHANAL KAUSHAL",
+    "gender": "Male",
+    "dob": "1992-12-10"
+  },
+  {
+    "sn": "7810",
+    "primaryKey": "0062024C50106193",
+    "name": "KANDEL SHIV LAL",
+    "gender": "Male",
+    "dob": "1987-02-28"
+  },
+  {
+    "sn": "7820",
+    "primaryKey": "0062024C50106374",
+    "name": "GURUNG KHUM BAHADUR",
+    "gender": "Male",
+    "dob": "1989-01-10"
+  },
+  {
+    "sn": "7892",
+    "primaryKey": "0062024C50107532",
+    "name": "MAJHI INDRA BAHADUR",
+    "gender": "Male",
+    "dob": "1991-04-18"
+  },
+  {
+    "sn": "7904",
+    "primaryKey": "0062024C50107733",
+    "name": "BHATTARAI BISHAL",
+    "gender": "Male",
+    "dob": "1998-08-08"
+  },
+  {
+    "sn": "7920",
+    "primaryKey": "0062024C50107962",
+    "name": "GAUTAM JOSHI BINITA",
+    "gender": "Female",
+    "dob": "1997-12-12"
+  },
+  {
+    "sn": "7940",
+    "primaryKey": "0062024C50108304",
+    "name": "BHUSAL BIJAY",
+    "gender": "Male",
+    "dob": "2000-04-15"
+  },
+  {
+    "sn": "7957",
+    "primaryKey": "0062024C50108680",
+    "name": "GAHA SANDIP",
+    "gender": "Male",
+    "dob": "2003-11-04"
+  },
+  {
+    "sn": "7960",
+    "primaryKey": "0062024C50108699",
+    "name": "B K GOVINDA",
+    "gender": "Male",
+    "dob": "1992-04-03"
+  },
+  {
+    "sn": "7962",
+    "primaryKey": "0062024C50108759",
+    "name": "KHANAL DIPAK",
+    "gender": "Male",
+    "dob": "2001-09-29"
+  },
+  {
+    "sn": "7978",
+    "primaryKey": "0062024C50108960",
+    "name": "FUNJALI RAM BAHADUR",
+    "gender": "Male",
+    "dob": "2004-05-30"
+  },
+  {
+    "sn": "8096",
+    "primaryKey": "0062024C50131763",
+    "name": "TAMANG BIKASH",
+    "gender": "Male",
+    "dob": "1985-07-28"
+  },
+  {
+    "sn": "8114",
+    "primaryKey": "0062024C50132953",
+    "name": "PANTH KABI",
+    "gender": "Male",
+    "dob": "1996-05-25"
+  },
+  {
+    "sn": "8134",
+    "primaryKey": "0062024C50133831",
+    "name": "PUN JAY PRAKASH",
+    "gender": "Male",
+    "dob": "1989-01-28"
+  },
+  {
+    "sn": "8138",
+    "primaryKey": "0062024C50133900",
+    "name": "TAMANG KSHYOSANG",
+    "gender": "Female",
+    "dob": "1996-03-05"
+  }
+]
